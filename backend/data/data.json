@@ -1,0 +1,161 @@
+{
+  "company": {
+    "name": "Jumia Algeria (Jumia Technologies AG)",
+    "founded": 2012,
+    "algeria_launch": 2012,
+    "hq": "Algiers, Algeria (Regional HQ: Berlin, Germany)",
+    "countries": [
+      "Algeria",
+      "Egypt",
+      "Ghana",
+      "Ivory Coast",
+      "Kenya",
+      "Morocco",
+      "Nigeria",
+      "Senegal",
+      "South Africa",
+      "Tunisia",
+      "Uganda"
+    ],
+    "revenue": 185000000,
+    "revenue_currency": "USD",
+    "gmv": 1200000000,
+    "active_users": 4200000,
+    "algeria_focus": true,
+    "algeria_monthly_visitors": 8500000,
+    "funding_total": 823000000,
+    "stock_ticker": "JMIA (NYSE)",
+    "description": "Leading e-commerce platform in Algeria and across Africa",
+    "algeria_description": "JUMIA Algeria offers electronics, fashion, home & living, beauty products, and more",
+    "estimation_method": "public_data_estimates",
+    "confidence": "medium",
+    "error": "403 Client Error: Forbidden for url: https://investor.jumia.com/press-releases/"
+  },
+  "competitors": {
+    "Ouedkniss": {
+      "name": "Ouedkniss",
+      "app_rating": 4.5,
+      "website": "https://www.ouedkniss.com",
+      "website_rank": null,
+      "estimation_method": "fallback",
+      "region": "Algeria",
+      "estimated_monthly_visitors": 12000000,
+      "market_focus": "Algeria"
+    },
+    "Batolis": {
+      "name": "Batolis",
+      "app_rating": 3.8,
+      "website": "https://www.batolis.com",
+      "website_rank": null,
+      "estimation_method": "fallback",
+      "region": "Algeria",
+      "estimated_monthly_visitors": 2500000,
+      "market_focus": "Algeria"
+    },
+    "ouedkniss": {
+      "name": "ouedkniss",
+      "app_rating": 4.2,
+      "website": "https://www.ouedkniss.com",
+      "website_rank": null,
+      "estimation_method": "fallback",
+      "region": "Algeria",
+      "estimated_monthly_visitors": 3000000,
+      "market_focus": "Algeria"
+    },
+    "Soukshop": {
+      "name": "Soukshop",
+      "app_rating": 3.9,
+      "website": "https://www.soukshop.dz",
+      "website_rank": null,
+      "estimation_method": "fallback",
+      "region": "Algeria",
+      "estimated_monthly_visitors": 1800000,
+      "market_focus": "Algeria"
+    }
+  },
+  "trends": {},
+  "app": {
+    "play_store": {
+      "rating": 4.5,
+      "reviews": 2.5,
+      "installs": 10000000,
+      "url": "https://play.google.com/store/apps/details?id=com.jumia.android&hl=en",
+      "estimation_method": "scraped"
+    },
+    "app_store": {
+      "rating": 4.4,
+      "ratings_count": 250000,
+      "estimation_method": "fallback_estimate",
+      "error": "404 Client Error: Not Found for url: https://apps.apple.com/us/app/jumia-online-shopping/id625477841"
+    }
+  },
+  "traffic": {
+    "similarweb": {
+      "global_rank": 5000,
+      "monthly_visits": 25000000,
+      "url": "https://www.similarweb.com/website/jumia.com/",
+      "estimation_method": "fallback_estimate"
+    }
+  },
+  "youtube": {
+    "subscribers": 4590,
+    "url": "https://www.youtube.com/@JumiaGroup",
+    "estimation_method": "scraped"
+  },
+  "news": [
+    {
+      "title": "NeoLife pays N31bn to distributors",
+      "source": "The Punch",
+      "publishedAt": "2026-01-18T23:35:50Z",
+      "url": "https://punchng.com/neolife-pays-n31bn-to-distributors/",
+      "summary": "NeoLife paid N31bn to its Nigerian distributors in 2025, up from N18bn the prior year, highlighting significant growth in its local operations.\n\nRead More: https://punchng.com/neolife-pays-n31bn-to-di"
+    },
+    {
+      "title": "Middle East B2C Ecommerce Market Opportunities to 2029: Revenues to Exceed $202 Billion",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-01-12T14:47:00Z",
+      "url": "https://www.globenewswire.com/news-release/2026/01/12/3217066/28124/en/Middle-East-B2C-Ecommerce-Market-Opportunities-to-2029-Revenues-to-Exceed-202-Billion.html",
+      "summary": "The market's expansion is driven by policy mandates, digital wallets, and mobile-first consumer behavior The market's expansion is driven by policy mandates, digital wallets, and mobile-first consumer"
+    },
+    {
+      "title": "Inside Nigeria’s food industry where dispatch riders steal from customers",
+      "source": "The Punch",
+      "publishedAt": "2026-01-10T23:21:21Z",
+      "url": "https://punchng.com/inside-nigerias-food-industry-where-dispatch-riders-steal-from-customers/",
+      "summary": "An investigation into Nigeria’s food delivery theft, where dispatch riders tamper with orders, eroding trust and posing health risks to customers.\n\nRead More: https://punchng.com/inside-nigerias-food-"
+    }
+  ],
+  "fetched_at": "2026-01-27T13:58:22.616886",
+  "source_status": {
+    "newsapi": {
+      "status": "ok",
+      "count": 3
+    },
+    "google_trends": {
+      "status": "error",
+      "error": "The request failed: Google returned a response with code 429"
+    },
+    "play_store": {
+      "status": "ok"
+    },
+    "app_store": {
+      "status": "error",
+      "error": "404 Client Error: Not Found for url: https://apps.apple.com/us/app/jumia-online-shopping/id625477841"
+    },
+    "similarweb": {
+      "status": "partial"
+    },
+    "youtube": {
+      "status": "ok"
+    },
+    "investor_relations": {
+      "status": "error",
+      "error": "403 Client Error: Forbidden for url: https://investor.jumia.com/press-releases/"
+    },
+    "competitors": {
+      "status": "ok",
+      "count": 4,
+      "region": "Algeria"
+    }
+  }
+}
